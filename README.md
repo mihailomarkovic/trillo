@@ -1,4 +1,4 @@
-# [Trillo Project 🏝️](https://mihailomarkovic.github.io/trillo/)
+# [Trillo Project 🏝️](https://trillo-mihailomarkovic.netlify.app/)
 
 ![Picture of Trillo website on a laptop and phone.](img/readme-img.png)
 
