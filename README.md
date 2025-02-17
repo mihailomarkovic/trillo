@@ -2,61 +2,37 @@
 
 ![Picture of Trillo website on a laptop and phone.](img/readme-img.png)
 
+# Trillo - Exclusive Hotels
+
 ## Introduction
 
-Welcome to the Trillo Repository, a project created to master CSS flexbox layouts and advanced web design techniques. This project showcases the power and flexibility of flexbox for structuring responsive, user-friendly interfaces. Designed with modern web users in mind, Trillo features elegant layouts, seamless navigation, and visually appealing design elements.
-
-This project serves as a testament to my ability to create clean, responsive, and accessible websites while utilizing CSS and SASS for enhanced styling.
+Trillo is a one-page website showcasing exclusive hotels in premium destinations. The project follows a responsive desktop-first design approach and is built using Flexbox to enhance layout skills and explore new design techniques.
 
 ## Project Highlights
 
-- **Flexbox Layouts:** The foundation of this project is built using CSS flexbox, demonstrating the versatility and power of this layout method.
-- **Responsive Design:** Adapted for optimal usability across desktops, tablets, and smartphones.
-- **Modern Aesthetics:** Incorporates smooth animations and cohesive design elements for a professional appearance.
+- Built with Flexbox for structured and flexible layout design.
+- Desktop-first responsive design ensuring a seamless experience.
+- Smooth animations applied to navigation and the CTA button for better user engagement.
+- Minimalist and elegant UI to match the luxury hotel theme.
 
 ## What I Learned
 
-This project allowed me to gain hands-on experience in several key areas:
-
-### HTML
-
-- Structuring content logically for readability and SEO.
-- Leveraging semantic elements for accessibility and maintainability.
-
-### CSS & SASS
-
-- Creating responsive layouts using flexbox.
-- Utilizing SASS to organize and modularize styles effectively.
-- Implementing smooth animations and transitions for enhanced interactivity.
-
-### Design Principles
-
-- Applying modern design trends, including clean typography and balanced color schemes.
-- Crafting user-centric designs that prioritize ease of navigation and visual appeal.
-
-### Problem-Solving
-
-- Debugging flexbox alignment and responsiveness issues.
-- Iteratively improving design based on feedback and testing.
+While working on this project, I improved my design skills and deepened my understanding of the Flexbox layout. Additionally, I experimented with subtle animations to enhance user experience, particularly for navigation and call-to-action elements. I also used Flexbox for implementing responsive design, making the layout adaptable to different screen sizes.
 
 ## Project Features
 
-The Trillo website is a visually engaging and interactive project designed to highlight key elements of modern web design:
-
-- **Responsive Layouts:** Adaptable for seamless use on devices of all sizes.
-- **Intuitive Navigation:** Includes a user-friendly header and sidebar for streamlined navigation.
-- **Dynamic Elements:** Styled with precision to ensure a polished and professional look.
-
-Together, these features demonstrate a thoughtful approach to design and development, blending creativity with technical expertise.
+- Visually appealing hero section with a structured flex layout.
+- Navigation bar with interactive elements.
+- Well-designed CTA button with animations.
+- Modern and elegant layout optimized for large screens.
 
 ## Technologies Used
 
-- **HTML5:** For semantic, well-structured markup.
-- **CSS3:** For styling and animations, leveraging the power of flexbox.
-- **SASS:** For better code organization and maintainability.
+- HTML5 for structure
+- CSS3 (Flexbox) for design and responsiveness
+- CSS Animations for interactive elements
+- Sass for modular and maintainable styling
 
 ## Closing Thoughts
 
-The Trillo project showcases my growth as a developer, emphasizing mastery of CSS flexbox layouts and responsive design. It reflects my commitment to building visually appealing and user-friendly web experiences.
-
-Thank you for exploring this repository. Please feel free to check out the code and visit the live site. Your feedback is always welcome!
+Trillo was a great opportunity to push my design and Flexbox skills further. The project helped me understand layout structuring and the power of CSS animations in enhancing the user experience. Moving forward, I aim to continue improving my web development and design skills by exploring new challenges.
